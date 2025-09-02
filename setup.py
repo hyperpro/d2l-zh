@@ -4,9 +4,9 @@ import d2l
 requirements = [
     'jupyter==1.0.0',
     'numpy==1.26',
-    'matplotlib==3.5.1',
+    'matplotlib==3.8',
     'requests==2.25.1',
-    'pandas==1.2.4'
+    'pandas==2.2'
 ]
 
 setup(
